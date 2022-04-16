@@ -2,10 +2,9 @@ from tkinter import *
 from tkinter import ttk
 from tkinter.messagebox import *
 from tkinter.simpledialog import *
-from typing import Union
 
 from tkinterie.tkinterIE import WebView
-from Tki import *
+from src.Tki import *
 
 
 class KiWidget(KiObject, KiPack, KiPlace):

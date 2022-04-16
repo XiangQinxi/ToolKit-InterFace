@@ -1,6 +1,4 @@
-from os import getcwd
-from tkinter import *
-from Tki.KiCore import *
+from src.Tki.KiCore import *
 
 
 class KiData(object):
